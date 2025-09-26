@@ -1,13 +1,20 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
+
+
+
 .header-container {
-    background-color: #e93e3e;
-    width: 100%;
-    top: 0 ;
-    padding: 10px 10px;
-    margin: 0;
-    color: #fff;
-
-    border-collapse: collapse;
-
-    display: block;
+  background-color: #e93e3e;
+  width: 100%;
+  top: 0;
+  padding: 10px 10px;
+  margin: 0;
+  color: #fff;
+  border-collapse: collapse; /* Обычно для таблиц, можно убрать */
+  display: block;
 }
 
